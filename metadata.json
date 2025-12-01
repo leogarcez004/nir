@@ -1,0 +1,5 @@
+{
+  "name": "NIR Hospital Coroadinho",
+  "description": "A comprehensive hospital regulation system (NIR) dashboard for managing patients, bed occupancy, and admissions with real-time analytics.",
+  "requestFramePermissions": []
+}
